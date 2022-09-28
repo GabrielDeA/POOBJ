@@ -1,5 +1,3 @@
-//André Heller, Gabriel De Antoni Santos, Lucas Tizon
-
 import java.time.LocalDate;
 
 public class Telefone extends Exception{
